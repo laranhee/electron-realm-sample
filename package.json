@@ -7,7 +7,7 @@
     "start": "electron .",
     "rebuild": "electron-rebuild -f -w realm"
   },
-  "repository": "",
+  "repository": "https://github.com/laranhee/electron-realm-sample.git",
   "keywords": [],
   "author": "Laranhee",
   "license": "MIT",
