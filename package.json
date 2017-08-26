@@ -1,0 +1,23 @@
+{
+  "name": "electron-realm-sample",
+  "version": "1.0.0",
+  "description": "A Electron Realm sample",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "rebuild": "electron-rebuild -f -w realm"
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "Laranhee",
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^0.13.0",
+    "electron": "~1.6.2",
+    "electron-packager": "^8.7.2",
+    "electron-rebuild": "^1.6.0"
+  },
+  "dependencies": {
+    "realm": "^1.10.3"
+  }
+}
